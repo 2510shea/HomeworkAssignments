@@ -26,6 +26,7 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2018-SIEM%20I.pdf
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2019-Splunk%20.png (Week 19) 
 
 (Week 20) Project 2; no homework 
-Week 21-
 
-Grades for Weeks 1-24 including projects and final. 
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2021-Digital%20Forensics.pdf (Week 21)
+
+Homework files for Week 1-12 and 14-19 and then 21. 
