@@ -15,8 +15,8 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%209-Network%20Fun
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2010-Cryptography.pdf (Week 10)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2011-Network%20Security.pdf (Week 11)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2012-Cloud%20Network%20Map.pdf (Week 12)
-Project 1; no homework 
-Week 14-
+      Project 1; no homework 
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2014-Web%20Development.pdf (Week 14)
 Week 15-
 Week 16-
 Week 17-
