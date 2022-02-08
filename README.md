@@ -23,8 +23,9 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2015-Web%20Vulera
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2016-Pen%20Testing%20I.pdf (Week 16) 
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2017-Pen%20Testing%20II.pdf (Week 17)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2018-SIEM%20I.pdf (Week 18) 
-Week 19-Completed Splunk Training and assessment; see attached Certificate of Completion 
-Week 20-Project 2; no homework 
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2019-Splunk%20.png (Week 19) 
+
+(Week 20) Project 2; no homework 
 Week 21-
 
 Grades for Weeks 1-24 including projects and final. 
