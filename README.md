@@ -3,7 +3,7 @@ Homework Assignments over the 24 Weeks of the Bootcamp.
 
 These files represent the submitted homework assignments for the 24 Week Cybersecurity Bootcamp. 
 
-Week 1-
+Week 1-https://github.com/2510shea/HomeworkAssignments/blob/main/Week%201-Security%20101%20Homework.pdf
 Week 2-
 Week 3-
 Week 4-
