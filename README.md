@@ -21,7 +21,7 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2012-Cloud%20Netw
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2014-Web%20Development.pdf (Week 14)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2015-Web%20Vulerabilities%20n%20Hardening.pdf (Week 15)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2016-Pen%20Testing%20I.pdf (Week 16) 
-Week 17-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2017-Pen%20Testing%20II.pdf (Week 17)
 Week 18-
 Week 19-Completed Splunk Training and assessment; see attached Certificate of Completion 
 Week 20-Project 2; no homework 
