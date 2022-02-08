@@ -16,11 +16,11 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2010-Cryptography
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2011-Network%20Security.pdf (Week 11)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2012-Cloud%20Network%20Map.pdf (Week 12)
 
-Project 1; no homework 
+(Week 13) Project 1; no homework 
 
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2014-Web%20Development.pdf (Week 14)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2015-Web%20Vulerabilities%20n%20Hardening.pdf (Week 15)
-Week 16-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2016-Pen%20Testing%20I.pdf (Week 16) 
 Week 17-
 Week 18-
 Week 19-Completed Splunk Training and assessment; see attached Certificate of Completion 
