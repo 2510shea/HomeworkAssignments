@@ -13,7 +13,7 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%207-Windows%20Sys
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%208-Networking%20Fundamentals.pdf (Week 8)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%209-Network%20Fundamentals%20II%20.pdf (Week 9)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2010-Cryptography.pdf (Week 10)
-Week 11-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2011-Network%20Security.pdf (Week 11)
 Week 12-
 Week 13-
 Week 14-
