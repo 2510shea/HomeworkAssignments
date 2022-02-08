@@ -14,8 +14,8 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%208-Networking%20
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%209-Network%20Fundamentals%20II%20.pdf (Week 9)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2010-Cryptography.pdf (Week 10)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2011-Network%20Security.pdf (Week 11)
-Week 12-
-Week 13-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%2012-Cloud%20Network%20Map.pdf (Week 12)
+Project 1; no homework 
 Week 14-
 Week 15-
 Week 16-
