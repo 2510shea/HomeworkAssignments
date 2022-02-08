@@ -7,8 +7,8 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%201-Security%2010
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%202-Assesing%20Security%20Culture.pdf
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%203-High%20Stakes%20Investigation%203.pdf
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%204-Linux%20Systems%20Admin.pdf
-Week 5-
-Week 6-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%205-Archiving%20n%20Logging%20Data.pdf
+W
 Week 7-
 Week 8-
 Week 9-
