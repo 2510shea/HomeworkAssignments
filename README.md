@@ -9,7 +9,7 @@ https://github.com/2510shea/HomeworkAssignments/blob/main/Week%203-High%20Stakes
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%204-Linux%20Systems%20Admin.pdf (Week 4)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%205-Archiving%20n%20Logging%20Data.pdf (Week 5)
 https://github.com/2510shea/HomeworkAssignments/blob/main/Week%206-Advanced%20Bash.pdf (Week 6)
-Week 7-
+https://github.com/2510shea/HomeworkAssignments/blob/main/Week%207-Windows%20Sysadmin.pdf (Week 7)
 Week 8-
 Week 9-
 Week 10-
